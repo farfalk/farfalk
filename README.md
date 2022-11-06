@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm a Freelancer information Engineer, and I love to make 🧑 and 🤖 have fun together! He/him, from Italy.
+I'm a freelancer Information Engineer, and I love to make 🧑 and 🤖 have fun together! He/him, from Italy.
 
 Trying to open-source everything I develop! Not much at this point, but I will change that - in time.
 
